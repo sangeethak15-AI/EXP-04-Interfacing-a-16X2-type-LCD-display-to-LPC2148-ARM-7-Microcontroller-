@@ -201,6 +201,7 @@ int main(void)
 ### Display OFF:
 ![Screenshot (325)](https://user-images.githubusercontent.com/93992063/196720933-7645f3d2-a23b-4077-8b12-50125bfe12da.png)
 ### Display ON:
+![Screenshot (324)](https://user-images.githubusercontent.com/93992063/196723485-989e3490-c646-4784-a07a-776e565077dd.png)
 
 
 
