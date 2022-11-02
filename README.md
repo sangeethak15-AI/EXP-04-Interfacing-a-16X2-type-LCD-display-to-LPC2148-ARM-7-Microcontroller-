@@ -186,7 +186,7 @@ void LCD_CHAR (char msg)
 int main(void)
 {
 		LCD_INIT();
-		LCD_STRING("Welcome to AIML");
+		LCD_STRING("Welcome to AI&DS");
 		LCD_CMD(0xC0);
 		LCD_STRING("212221230085");
 		return 0;
@@ -199,15 +199,16 @@ int main(void)
 
 ## Proteus simulation 
 ### Display OFF:
+![Screenshot (325)](https://user-images.githubusercontent.com/93992063/199498271-a1853f90-e0aa-44ed-bffc-7ff0f3c5257f.png)
 
-![Screenshot (325)](https://user-images.githubusercontent.com/93992063/199497929-b54770f2-024a-4ee3-bab5-728e9cb38f20.png)
 
 
 
 ### Display ON:
 
 
-![Screenshot (324)](https://user-images.githubusercontent.com/93992063/199497824-afac92bb-7017-4492-ad29-0ff619731e19.png)
+![Screenshot (324)](https://user-images.githubusercontent.com/93992063/199498236-01454b77-eadc-42fd-bc15-534a4a9fbb1e.png)
+
 
 
 
