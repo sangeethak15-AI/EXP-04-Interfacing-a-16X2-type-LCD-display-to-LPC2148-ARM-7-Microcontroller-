@@ -200,14 +200,14 @@ int main(void)
 ## Proteus simulation 
 ### Display OFF:
 
-![Screenshot (325)](https://user-images.githubusercontent.com/93992063/199497553-6fc1d506-b02f-4e7f-8df1-68f6178dafc3.png)
+![Screenshot (325)](https://user-images.githubusercontent.com/93992063/199497929-b54770f2-024a-4ee3-bab5-728e9cb38f20.png)
+
 
 
 ### Display ON:
 
-![Screenshot (324)](https://user-images.githubusercontent.com/93992063/199497677-5d9fce3f-ceac-4da8-a87c-3269515d83cc.png)
 
-
+![Screenshot (324)](https://user-images.githubusercontent.com/93992063/199497824-afac92bb-7017-4492-ad29-0ff619731e19.png)
 
 
 
