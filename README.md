@@ -199,7 +199,7 @@ int main(void)
 
 ## Proteus simulation 
 ### Display OFF:
-![Screenshot (325)](https://user-images.githubusercontent.com/93992063/199498271-a1853f90-e0aa-44ed-bffc-7ff0f3c5257f.png)
+![image](https://user-images.githubusercontent.com/93992063/199498271-a1853f90-e0aa-44ed-bffc-7ff0f3c5257f.png)
 
 
 
@@ -207,7 +207,7 @@ int main(void)
 ### Display ON:
 
 
-![Screenshot (324)](https://user-images.githubusercontent.com/93992063/199498236-01454b77-eadc-42fd-bc15-534a4a9fbb1e.png)
+![image](https://user-images.githubusercontent.com/93992063/199498236-01454b77-eadc-42fd-bc15-534a4a9fbb1e.png)
 
 
 
